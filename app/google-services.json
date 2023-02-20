@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021783563402",
+    "project_id": "chating-d8a40",
+    "storage_bucket": "chating-d8a40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021783563402:android:5802d726e7c5f97659a173",
+        "android_client_info": {
+          "package_name": "com.ahamed.citchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021783563402-h3h50bc8ms8oktr99hia8ial4mv5ehbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi6IWyOx7KnnIGE5T5VgN1j6T7OnarBeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021783563402-h3h50bc8ms8oktr99hia8ial4mv5ehbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

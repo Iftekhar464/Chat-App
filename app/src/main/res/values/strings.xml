@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CIT Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hasib">Hasib</string>
+    <string name="log_out">Log out</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">log in</string>
+    <string name="welcome_to_cit_chat_app">Welcome to CIT Chat App</string>
+    <string name="create_new_account">Create new account ?</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full name</string>
+    <string name="already_have_an_account_log_in">already have an account? Log in</string>
+</resources>
